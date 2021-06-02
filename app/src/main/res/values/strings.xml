@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Redes_Sociales</string>
+    <string name="Inicio">Inicio de Sesion</string>
+    <string name="Compartir">Crear Publicacion</string>
+    <string name="title">Titulo</string>
+    <string name="contenido">Contenido de la publicacion...</string>
+    <string name="facebook_app_id">908083573086954</string>
+    <string name="fb_login_protocol_scheme">fb908083573086954</string>
+    <string name="comFoto">Compartir Foto</string>
+    <string name="comLink">Compartir Link</string>
+    <string name="comTexto">Compartir Texto</string>
+
+</resources>
